@@ -1,10 +1,13 @@
 # Net Stats with Node.js
 
-`Compatibility`
+`Compatibility:`
+
 Tested on and works with Ubuntu and Debian.
 
-`Description`
+`Description:`
+
 This is an exmaple of how you could get network stats with node.js.
 
-`How to run`
+`How to run:`
+
 Download index.js and run with "node index.js".
